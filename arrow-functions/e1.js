@@ -6,7 +6,9 @@ function sum(a, b) {
 
 let sumArrow = (a, b) => a + b;
 console.log(sum(1, 2));
+
 console.log(sumArrow(1, 2));
+
 console.log("\n");
 
 function isPositiveNumber(number) {
