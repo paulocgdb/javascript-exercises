@@ -2,6 +2,6 @@
 
 Here i'll put somes javascritps codes to practice
 
-Some small projects will be here too
+Some small projects will be here too, like todo list ie
 
 let's code
