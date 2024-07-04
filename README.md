@@ -4,4 +4,4 @@ Here i'll put somes javascritps codes to practice
 
 Some small projects will be here too, like todo list and more
 
-let's code and practice a lot hehe
+let's code and 
