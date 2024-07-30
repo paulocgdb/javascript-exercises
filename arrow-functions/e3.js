@@ -15,7 +15,7 @@ let personTwo = {
     age: 30
 }
 
-const mapAge = array => array.map(element => element.age);
+const mapAge = array => array.map( element => element.age);
 let personList = [personOne, personTwo];
 
 console.log(mapAge(personList));
