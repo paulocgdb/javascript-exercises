@@ -1,6 +1,6 @@
 // Filter and findIndex methods
 
-let array = [1, 2, 3, 4, 5, 6, 7];
+let array = [1, 2, 3, 4, 5, 6, 7, 8, 8];
 
 const pairArray = array => array.filter(element => element % 2 === 0);
 console.log(pairArray(array));
