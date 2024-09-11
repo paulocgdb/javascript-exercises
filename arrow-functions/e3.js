@@ -11,7 +11,7 @@ let personOne = {
 }
 
 let personTwo = {
-    name: 'New Paulo',
+    name: 'New Paulo César',
     age: 30
 }
 
