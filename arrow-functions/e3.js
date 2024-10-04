@@ -6,7 +6,7 @@ let array = [1, 2, 3, 5, 6, 7, 8];
 console.log(mapArrow(array));
 
 let personOne = {
-    name: 'Paulo César G d Brito',
+    name: 'Paulo César',
     age: 29
 }
 
