@@ -8,7 +8,7 @@ console.log(mapArrow(array));
 let personOne = {
     name: 'Paulo César',
     
-    age: 29
+    age: 30
 }
 
 let personTwo = {
