@@ -2,7 +2,6 @@
 
 function sum(a, b) {
     return a + b;
-    
 }
 
 let sumArrow = (a, b) => a + b;
