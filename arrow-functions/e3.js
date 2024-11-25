@@ -1,7 +1,7 @@
 // Map Method
 
 const mapArrow = array => array.map(element => element * 2);
-let array = [1, 2, 3, 5, 6, 7, 8];
+let array = [1, 2, 3, 5, 6, 7, 8, 9, 10];
 
 console.log(mapArrow(array));
 
